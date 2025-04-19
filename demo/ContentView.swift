@@ -16,6 +16,7 @@ struct ContentView: View {
             Text("Fuck you bro!!")
 			Text("I love u!!")
 			Text("That girl is sexy!!")
+			Text("I wanna nake her..")
         }
         .padding()
     }
