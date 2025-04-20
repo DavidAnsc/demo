@@ -14,6 +14,7 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
         }
+		Text("Minecraft is the best video game ever.")
         .padding()
 		Text("Hello bro!")
     }
