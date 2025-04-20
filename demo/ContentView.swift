@@ -11,6 +11,7 @@ struct ContentView: View {
     var body: some View {
         VStack {
 			let value = "Hello guys, I am invisible."
+			Text(value)
 			
             Image(systemName: "globe")
                 .imageScale(.large)
@@ -18,7 +19,6 @@ struct ContentView: View {
             Text("Fuck you bro!!")
 			Text("I love u!!")
 			Text("That girl is sexy!!")
-			Text("I wanna nake her..")
         }
         .padding()
     }
