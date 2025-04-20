@@ -10,6 +10,8 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
+			let value = "Hello guys, I am invisible."
+			
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
