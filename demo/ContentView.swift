@@ -8,16 +8,13 @@
 import SwiftUI
 
 struct ContentView: View {
-    var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-        }
-		Text("Final Cut Pro is the best video editing software I've ever used.!")
-		.padding()
-		Text("Affinity Photo is the best graphic design restor software.")
-    }
+	var body: some View {
+		VStack {
+			Text("Final Cut Pro is the best video editing software I've ever used.!")
+			.padding()
+			Text("Affinity Photo is the best graphic design restor software.")
+		}
+	}
 }
 
 #Preview {

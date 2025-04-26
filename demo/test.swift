@@ -6,3 +6,8 @@ import Foundation
 func get() {
 	print("You got this function.")
 }
+
+func remove() {
+	print("You removed the function.")
+}
+
