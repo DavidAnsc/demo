@@ -15,7 +15,8 @@ struct ContentView: View {
                 .foregroundStyle(.tint)
         }
 		Text("Final Cut Pro is the best video editing software I've ever used.!")
-        .padding()
+		.padding()
+		Text("Affinity Photo is the best graphic design restor software.")
     }
 }
 
