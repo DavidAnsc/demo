@@ -3,4 +3,3 @@
 import SwiftUI
 
 var greeting = "Hello bro, I am David"
-var goodbye = "Bye bro, so ya..."

@@ -14,10 +14,8 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
         }
-		Text("Minecraft is the best video game ever.")
 		Text("Final Cut Pro is the best video editing software I've ever used.!")
         .padding()
-		Text("Hello bro!")
     }
 }
 
