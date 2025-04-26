@@ -11,14 +11,16 @@ struct ContentView: View {
 	var body: some View {
 		VStack {
 			Text("Final Cut Pro is the best video editing software I've ever used.!")
-			.padding()
+				.padding()
 			Text("Affinity Photo is the best graphic design restor software.")
-			.padding()
+				.padding()
 			Text("Things 3 is the best personal task management software in the world.")
-		.padding()
-		HStack {
-			Text("hello")
-			Text("goodbye")
+				.padding()
+			HStack {
+				Text("hello")
+				Text("goodbye")
+				
+			}
 		}
 	}
 }
