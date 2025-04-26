@@ -15,7 +15,6 @@ struct ContentView: View {
 			Text("Affinity Photo is the best graphic design restor software.")
 			.padding()
 			Text("Things 3 is the best personal task management software in the world.")
-		}
 		.padding()
 		HStack {
 			Text("hello")
