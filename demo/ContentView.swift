@@ -14,6 +14,11 @@ struct ContentView: View {
 			.padding()
 			Text("Affinity Photo is the best graphic design restor software.")
 		}
+		.padding()
+		HStack {
+			Text("hello")
+			Text("goodbye")
+		}
 	}
 }
 
