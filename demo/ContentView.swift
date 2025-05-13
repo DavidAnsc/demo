@@ -16,6 +16,8 @@ struct ContentView: View {
 				.padding()
 			Text("Things 3 is the best personal task management software in the world.")
 				.padding()
+			Capsule()
+				.fill(Color.cyan)
 			HStack {
 				Text("hello")
 				Text("goodbye")
