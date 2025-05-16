@@ -18,6 +18,8 @@ struct ExplorerView: View {
 			.foregroundStyle(.black)
 			.frame(width: 200, height: 400)
 			.foregroundStyle(.green)
+        Capsule()
+            .frame(width: 80, height: 400)
     }
 }
 
